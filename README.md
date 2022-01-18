@@ -19,25 +19,21 @@
 
 :heart:**Hadoop**
 
-​		[hdfs](https://github.com/daxudaai/nodes/blob/master/bigdata/Hadoop/hdfs.md)
+ 	[hdfs](https://github.com/daxudaai/nodes/blob/master/bigdata/Hadoop/hdfs.md)
 
-​		[mapreduce](https://github.com/daxudaai/nodes/blob/master/bigdata/Hadoop/mapreduce.md)
+ 	[mapreduce](https://github.com/daxudaai/nodes/blob/master/bigdata/Hadoop/mapreduce.md)
 
-​		[yarn](https://github.com/daxudaai/nodes/blob/master/bigdata/Hadoop/yarn.md)
+[yarn](https://github.com/daxudaai/nodes/blob/master/bigdata/Hadoop/yarn.md)
 
 :heart:**Spark**
 
-​		[spark-core](https://github.com/daxudaai/nodes/blob/master/bigdata/Spark/spark-core.md)
+[spark-core](https://github.com/daxudaai/nodes/blob/master/bigdata/Spark/spark-core.md)
 
-​		[spark-sql](https://github.com/daxudaai/nodes/blob/master/bigdata/Spark/sparksql.md)
+[spark-sql](https://github.com/daxudaai/nodes/blob/master/bigdata/Spark/sparksql.md)
 
-​		[spark-streaming](https://github.com/daxudaai/nodes/blob/master/bigdata/Spark/sparkstreaming.md)
+[spark-streaming](https://github.com/daxudaai/nodes/blob/master/bigdata/Spark/sparkstreaming.md)
 
 :heart:`**Flink**
 
-​		[flink](https://github.com/daxudaai/nodes/blob/master/bigdata/Flink/flink.md)
-
-
-
-
-
+[flink](https://github.com/daxudaai/nodes/blob/master/bigdata/Flink/flink.md)
+jjj jj
