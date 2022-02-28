@@ -22,3 +22,5 @@
 
 * [flink](https://github.com/daxudaai/nodes/blob/master/bigdata/Flink/flink.md)
 
+:heart:`**Hive**
+
