@@ -24,3 +24,7 @@
 
 :heart:`**Hive**
 
+- [hive](https://github.com/daxudaai/nodes/blob/master/bigdata/Hive/hive.md)
+
+
+
